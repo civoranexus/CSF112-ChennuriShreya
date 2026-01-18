@@ -1,0 +1,10 @@
+function Header() {
+  return (
+    <header className="header">
+      <h1>CyberThana</h1>
+      <p>Secure Rural Cybercrime Reporting Portal</p>
+    </header>
+  );
+}
+
+export default Header;
